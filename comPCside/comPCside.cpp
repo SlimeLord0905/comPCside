@@ -31,7 +31,7 @@ SerialPort* arduino; //doit etre un objet global!
 /*----------------------------- Fonction "Main" -----------------------------*/
 int main() {
     string raw_msg;
-
+    int num 1333;
     // Initialisation du port de communication
     string com;
     cout << "Entrer le port de communication du Arduino: ";
